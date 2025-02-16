@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f90f7e92751757449991076d65017475, type: 3}
+  m_Name: Pink Floyd The Wall
+  m_EditorClassIdentifier: 
+  vinylName: The Wall
+  songs:
+  - songName: In the flesh?
+    songClip: {fileID: 8300000, guid: 40662189522085f4192e9eb8f07fe8c3, type: 3}
+  - songName: The Thin Ice
+    songClip: {fileID: 8300000, guid: 09ba1dbf04d8ed04dbb4c2e15c3de6f1, type: 3}
+  - songName: The Wall pt1
+    songClip: {fileID: 8300000, guid: ef8cd30a7702f864fa11d8e5abb2c417, type: 3}
+  - songName: The Happiest...
+    songClip: {fileID: 8300000, guid: 3130ae399e2862048a9a680936e12071, type: 3}
+  - songName: Mother
+    songClip: {fileID: 8300000, guid: 224346360129f8a4b8eb07c589c3e40f, type: 3}
+  - songName: Goodbye Blue Sky
+    songClip: {fileID: 8300000, guid: 205a004de3e8fc640a33ae070002b49d, type: 3}
+  - songName: Empty Spaces
+    songClip: {fileID: 8300000, guid: b10f1d9a5977fc14d949d9e85fe6f4d7, type: 3}
+  - songName: Young Lust
+    songClip: {fileID: 8300000, guid: 6aa0cfc2d4d6a954dab816554038dd72, type: 3}
+  - songName: The Wall pt2
+    songClip: {fileID: 8300000, guid: 42b4012b688d9ef42a315f4d258ad19d, type: 3}
+  - songName: One of My Turns
+    songClip: {fileID: 8300000, guid: 74736cba7b8133247acfc85ed405a02f, type: 3}
